@@ -1,0 +1,10 @@
+{
+  "name": "prince-art-packages-vercel-ready",
+  "version": "1.0.3",
+  "private": true,
+  "description": "Prince Art Packages static website - Vercel/GitHub ready",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/verify-site.mjs"
+  }
+}
